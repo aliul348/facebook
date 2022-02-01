@@ -1,0 +1,61 @@
+.admin-box{
+    background-color: rgb(206, 122, 13);
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.admin-box h1{
+    color: blue;
+    font-size: 30px;
+}
+.admin-box form{
+text-align: center;
+}
+.admin-box form input{
+width: 100%;
+margin: 5px auto;
+padding: 10px;
+border: none;
+}
+#btn{
+
+}
+.links{
+text-align: end;
+margin-top: 20px;
+}
+.links a{
+text-decoration: none;
+color: white;
+}.admin-box{
+    background-color: rgb(206, 122, 13);
+    padding: 20px;
+    width: 50%;
+    margin: auto;
+    text-align: center;
+}
+.admin-box h1{
+    color: blue;
+    font-size: 30px;
+}
+.admin-box form{
+text-align: center;
+}
+.admin-box form input{
+width: 100%;
+margin: 5px auto;
+padding: 10px;
+border: none;
+}
+#btn{
+
+}
+.links{
+text-align: end;
+margin-top: 20px;
+}
+.links a{
+text-decoration: none;
+color: white;
+}
